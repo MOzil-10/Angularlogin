@@ -1,0 +1,16 @@
+{
+  "myList": [
+    {
+      "id": 1,
+      "firstName": "Ozil",
+      "email": "Ozil@gmail.com",
+      "password": "222222"
+    },
+    {
+      "name": "Mukosi",
+      "email": "mukosibudeli@gmail.com",
+      "password": "555555",
+      "id": 2
+    }
+  ]
+}
